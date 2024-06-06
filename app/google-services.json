@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046831497721",
+    "project_id": "sololife-ba3e0",
+    "storage_bucket": "sololife-ba3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046831497721:android:7b77474bc101a8bfeffd28",
+        "android_client_info": {
+          "package_name": "com.wspyo.sololife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrCsbTYiGUnhpGP1sSw9dvVIN8N9qh98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
